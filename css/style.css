@@ -1,0 +1,58 @@
+html, body {
+    padding:0px;
+    margin:0px;
+}
+
+#myCanvas{
+    width: 100%;
+    height: 100%;
+}
+
+#fps {
+    position: absolute;
+    background-color: black;
+    border: 2px solid red;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    top: 15px;
+    right: 10px;
+    width: 60px;
+    height: 20px;
+}
+
+#score{
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    color: yellow;
+    right: 1830px;
+    top: 30px;
+}
+
+#accident{
+    position: absolute;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    right: 500px;
+    top: 60px;
+}
+
+#levelField{
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    color: yellow;
+    right: 1830px;
+    top: 60px;
+}
+
+#time{
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    color: yellow;
+    right: 1768px;
+    top: 90px;
+}

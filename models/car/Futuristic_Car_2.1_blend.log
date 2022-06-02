@@ -1,0 +1,183 @@
+Exporter version: 2.80.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /home/ossama/Desktop/JS/BabylonJSGame/models/
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Car_Con_Box
+		processing begun of material:  box
+		num positions      :  577
+		num normals        :  577
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  208
+	processing begun of mesh:  Back_Suspension_L
+		processing begun of material:  Futuristic_Car.001
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  192
+		num triangles      :  46
+	processing begun of mesh:  Back_Wheel_Force_1_L
+		processing begun of material:  box
+		registered as also a user of material:  box
+		num positions      :  81
+		num normals        :  81
+		num tangents       :  0
+		num uvs            :  162
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  Back_Wheel_Mesh_1_L
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  392
+		num normals        :  392
+		num tangents       :  0
+		num uvs            :  784
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Back_Suspension_R
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  192
+		num triangles      :  46
+	processing begun of mesh:  Back_Wheel_Force_1_R
+		processing begun of material:  box
+		registered as also a user of material:  box
+		num positions      :  81
+		num normals        :  81
+		num tangents       :  0
+		num uvs            :  162
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  Back_Wheel_Mesh_1_R
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  395
+		num normals        :  395
+		num tangents       :  0
+		num uvs            :  790
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Car_Glas_Mesh
+		processing begun of material:  Futuristic_Car_black.001
+		processing begun of material:  Futuristic_Car_glass.001
+		processing begun of multimaterial:  Futuristic_Car_2_1_blend.Multimaterial#0
+		num positions      :  332
+		num normals        :  332
+		num tangents       :  0
+		num uvs            :  664
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  316
+	processing begun of mesh:  Car_Mesh
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  5608
+		num normals        :  5608
+		num tangents       :  0
+		num uvs            :  11216
+		num uvs2           :  0
+		num colors         :  22432
+		num triangles      :  5464
+	processing begun of mesh:  Front_Steering_Mesh_1_L
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  268
+		num normals        :  268
+		num tangents       :  0
+		num uvs            :  536
+		num uvs2           :  0
+		num colors         :  1072
+		num triangles      :  270
+	processing begun of mesh:  Front_Wheel_Force_1_L
+		processing begun of material:  box
+		registered as also a user of material:  box
+		num positions      :  78
+		num normals        :  78
+		num tangents       :  0
+		num uvs            :  156
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  Front_Wheel_Mesh_2_L
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  395
+		num normals        :  395
+		num tangents       :  0
+		num uvs            :  790
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Front_Wheel_Mesh_1_R
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  266
+		num normals        :  266
+		num tangents       :  0
+		num uvs            :  532
+		num uvs2           :  0
+		num colors         :  1064
+		num triangles      :  270
+	processing begun of mesh:  Front_Wheel_Force_1_R
+		processing begun of material:  box
+		registered as also a user of material:  box
+		num positions      :  78
+		num normals        :  78
+		num tangents       :  0
+		num uvs            :  156
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  Front_Steering_Mesh_2_R
+		processing begun of material:  Futuristic_Car.001
+		registered as also a user of material:  Futuristic_Car.001
+		num positions      :  395
+		num normals        :  395
+		num tangents       :  0
+		num uvs            :  790
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of light (DIRECTIONAL):  Hemi
+========= Writing of JSON file started =========
+	writing mesh:  Car_Con_Box
+	writing mesh:  Back_Suspension_L
+	writing mesh:  Back_Wheel_Force_1_L
+	writing mesh:  Back_Wheel_Mesh_1_L
+	writing mesh:  Back_Suspension_R
+	writing mesh:  Back_Wheel_Force_1_R
+	writing mesh:  Back_Wheel_Mesh_1_R
+	writing mesh:  Car_Glas_Mesh
+	writing mesh:  Car_Mesh
+	writing mesh:  Front_Steering_Mesh_1_L
+	writing mesh:  Front_Wheel_Force_1_L
+	writing mesh:  Front_Wheel_Mesh_2_L
+	writing mesh:  Front_Wheel_Mesh_1_R
+	writing mesh:  Front_Wheel_Force_1_R
+	writing mesh:  Front_Steering_Mesh_2_R
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.6356 secs

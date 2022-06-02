@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Babylon JS 3D Game</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="assets/space.jpg">
+    <!--BABYLON-->
+    <script src="https://cdn.babylonjs.com/babylon.max.js"></script>
+    <script src="https://preview.babylonjs.com/loaders/babylonjs.loaders.js"></script>
+
+    <!--Howler.js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/1.1.28/howler.min.js"></script>
+
+    <!--Cannon for physics engine-->
+    <script src="https://cdn.babylonjs.com/cannon.js"></script>
+
+    <!--GAME-->
+    <script type="module" src="js/Game.js"></script>
+    <script src="js/chrono.js"></script>
+</head>
+
+<body>
+    <div id="fps">0</div>
+    <div>
+        <div id="score">Score : <span id="scoreSpan">0</span></div>
+        <div id="levelField">Level : <span id="levelSpan">1</span></div>
+        <div id="time">Time : <span id="chrono">0:00:00:00</span></div>
+    </div>
+
+    <p id="accident"></p>
+    <canvas id="myCanvas"></canvas>
+</body>
+
+</html>
