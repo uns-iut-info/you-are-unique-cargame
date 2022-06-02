@@ -18,3 +18,6 @@
 ### Niveau :
 - À chaque passage à un niveau supérieur les voitures obstacles deviennent plus rapides .
 - À chaque passage à un niveau supérieur les voitures obstacles nécessitent un coup de cannon de plus pour être détruite (ex : niveau 1 , un coup de cannon détruit une voiture , au niveau 2 , 2 coups de cannons etc) . Les voitures émettent du feu si un coup de cannon les touchent et qu'il les détruit pas . Si la voiture est détruite une explosion est crée.
+
+### Lien du jeu sur Heroku
+https://cargamebabylonjs.herokuapp.com/
